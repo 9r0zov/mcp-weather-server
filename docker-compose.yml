@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  mcp-host:
+    build: .
+    container_name: mcp-weather-server
+    ports:
+      - "9010:9010"
+    restart: unless-stopped
+    networks:
+      - mcp-network
+
+networks:
+  mcp-network:
+    name: mcp-network
