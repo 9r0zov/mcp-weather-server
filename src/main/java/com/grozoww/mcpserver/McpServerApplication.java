@@ -1,4 +1,4 @@
-package com.skyscanner.mcpserver;
+package com.grozoww.mcpserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

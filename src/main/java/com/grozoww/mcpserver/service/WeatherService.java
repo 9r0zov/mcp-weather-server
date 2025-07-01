@@ -1,4 +1,4 @@
-package com.skyscanner.mcpserver.service;
+package com.grozoww.mcpserver.service;
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.ai.tool.annotation.Tool;

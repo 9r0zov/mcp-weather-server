@@ -1,6 +1,6 @@
-package com.skyscanner.mcpserver.configuration;
+package com.grozoww.mcpserver.configuration;
 
-import com.skyscanner.mcpserver.service.WeatherService;
+import com.grozoww.mcpserver.service.WeatherService;
 import org.springframework.ai.tool.ToolCallbackProvider;
 import org.springframework.ai.tool.method.MethodToolCallbackProvider;
 import org.springframework.context.annotation.Bean;
